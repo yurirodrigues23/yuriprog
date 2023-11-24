@@ -10,7 +10,7 @@ const variavel2 = 'Essa é a variavel 2. const, é usado para variáveis que nã
 
 var variavel3 = 'Essa é a variavel 3. var pode ser reatribuida, porém é descontinuada e não é uma boa prática utilizá-la';
 
-*/
+/*
 
 + ADIÇÃO
 - SUBTRAÇÃO
